@@ -5,6 +5,42 @@ The following analysis is for the stakeholders to see more of the bike-sharing r
 
 ## Results
 
+1. Checkout Times
+![]()
+	- The Citibikes seem to be used for 0-1 hour with fewer bikes staying rented out for longer than that
+	amount of time.
+
+2. August Peak Hours
+![]()
+	- Middle of the day during buisness hours is when we would expect to see high usage of the bikes which is affirmed in
+	this chart. Thus, we can expect for repairs to occur between the hours of 3am-5am.
+
+3. Trips by Weekday heatmap
+![]()
+	- From 6am-9am and from 4pm-7pm the Citibikes see a lot of usage during the weekdays. It is possible that these could be individuals
+	utilizing the Citibikes to get to and from work. Additionally, the bikes on the weekends see an uptick in usage between the hours of 10am-7pm.
+	This could just be people getting up later on days off and going around the city or individuals coming in to visit NYC on their days off.
+
+4. Gender usage times
+![]()
+	- It seems like more males use the Citibike service, however all genders seem to utilize the bikes for the same period of time. As described previously
+	most trips seem to last betwen 0-1 hour.
+
+5. Gender Stoptimes/usages
+![]()
+	- This heatmap shows the same pattern described in the previous heatmap, but simply divided by gender this time. This highlights again how males tend to
+	use the bike-sharing service more.
+
+6. Gender/Subscribers
+![]()
+	- The bike-sharing service seems to do pretty well when it comes to subscribers with more of its rides/checkouts coming from subscribers. Meanwhile, this chart 
+	shows again more males are utilizing the bike-sharing service.
+
+7. Start and Ending Locations
+![]()
+	- As can be seen the bikes stay relatively in the same area. Thus, collecting them for repairs shouldn't be too difficult of a task. Moreover, they will be readily
+	available for the same people to use them after dropping them off. 
+
 [link to dashboard](https://public.tableau.com/app/profile/thomas.bradley4603/viz/Challenge14_16365899874050/NYCCitibikeStory?publish=yes)
 
 Within the Storyboard the charts have descriptions of the results and what is being depicted in them.
